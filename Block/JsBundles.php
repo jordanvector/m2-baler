@@ -5,9 +5,9 @@
  */
 declare(strict_types=1);
 
-namespace Magento\Baler\Block;
+namespace Ironman\Baler\Block;
 
-use Magento\Baler\Model\FileManager;
+use Ironman\Baler\Model\FileManager;
 use Magento\Framework\View\Element\Context;
 use Magento\Framework\Filesystem\DirectoryList;
 use Magento\Framework\View\Page\Config as PageConfig;
